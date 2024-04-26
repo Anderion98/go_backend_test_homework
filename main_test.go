@@ -5,7 +5,6 @@ import (
 	"testing"
 )
 
-// яндекс
 var (
 	requiredFiles = []string{"README.md", "main.go", "main_test.go", "go.mod"}
 )
